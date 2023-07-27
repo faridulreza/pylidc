@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 
 def main():
     setup(
-        name='pylidc',
-        description='A library for working with the LIDC dataset.',
+        name='pylidc-updated',
+        description='A library for working with the LIDC dataset. Modified to work with modern numpy',
         long_description='',
         url='https://github.com/pylidc/pylidc',
         author='Matt Hancock',
